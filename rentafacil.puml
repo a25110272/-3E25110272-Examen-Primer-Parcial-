@@ -1,6 +1,9 @@
+
+
+
 @startuml
 
-class Placa
+ class Placa
 class Marca
 
 class Modelo
