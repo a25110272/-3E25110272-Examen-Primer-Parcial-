@@ -4,4 +4,4 @@
  por la multiplicad entre (Alquiler "1" o-- "1..3" Vehiculo) hace que un cliente solo pueda tener 3 al mismo tiempo 
 
 ¿Qué modificadores de acceso serían adecuados para los atributos de cada clase?
-Los atributos que son  privados son  para proteger la información y que no se modifique .por ejemplo lo de las placas se pone privado para evitar que otra cosa lo pueda modificar por error y los publicos son los que se utilizan en varias clases  y que se puede modificar
+Los atributos que son  privados son  para proteger la información y que no se modifique .por ejemplo lo de las placas se pone privado para evitar que otra cosa lo pueda modificar por error y los publicos son los que se utilizan en varias clases  y  que se puede modificar
